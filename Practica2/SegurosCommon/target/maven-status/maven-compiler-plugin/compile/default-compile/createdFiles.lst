@@ -1,0 +1,10 @@
+CodigoPractica2\ISegurosDAO.class
+CodigoPractica2\OperacionNoValida.class
+CodigoPractica2\Cliente.class
+CodigoPractica2\DataAccessException.class
+CodigoPractica2\Cobertura.class
+CodigoPractica2\IGestionSeguros.class
+CodigoPractica2\IClientesDAO.class
+CodigoPractica2\Seguro.class
+CodigoPractica2\IGestionClientes.class
+CodigoPractica2\IInfoSeguros.class
